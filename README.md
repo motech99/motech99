@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A passionate fullstack developer from Melbourne Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=motech99&label=Profile%20views&color=0e75b6&style=flat" alt="motech99" /> </p>
 
+<div align="center">
+  
 
 - 🔭 I’m currently working on **React framework**
 
@@ -26,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motech99&show_icons=true&locale=en" alt="motech99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motech99&" alt="motech99" /></p>
+
+</div>
