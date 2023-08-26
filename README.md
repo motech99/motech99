@@ -2,8 +2,21 @@
 <h3 align="center">A passionate fullstack developer from Melbourne Australia</h3>
 
 <div align="center">
-  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+  <div style="display: inline-block;">
+    <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  </div>
+  <h3>A Passionate Fullstack Developer from Melbourne, Australia</h3>
+    
+   <p>Welcome to my corner of the digital world! I'm a dedicated fullstack developer based in the vibrant city of Melbourne, Australia. My journey in the world of programming began with a fascination for turning lines of code into functional and creative solutions.</p>
+    
+  <p>With a strong foundation in languages like HTML, CSS, and JavaScript, I've been crafting engaging and user-friendly web experiences. Currently, I'm immersed in the exciting realm of the React framework, exploring its endless possibilities.</p>
+    
+  <p>When I'm not coding, you'll find me exploring the beautiful landscapes of Melbourne, enjoying a cup of coffee while brainstorming new project ideas, or engaging with the ever-evolving tech community.</p>
+    
+  <p>Feel free to connect with me, whether you want to discuss tech trends, collaborate on projects, or simply share a good coding joke. I'm always excited to connect with fellow developers!</p>
+    
+<div align="center">
+  
 🌱 I’m currently learning **React**
 
 👨‍💻 All of my projects are available at [TBA](TBA)
