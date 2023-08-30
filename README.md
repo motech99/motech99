@@ -1,13 +1,12 @@
 <div align="center">
+  <div style="display: inline-block;">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Masthead" height="400" width="100%"/>
+    
+<div align="center">
   <a href="https://git.io/typing-svg" style="display: block; text-align: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=F71F49&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B+;I'm+Mohammed!" alt="Typing SVG" />
   </a>
 </div>
-
-
-<div align="center">
-  <div style="display: inline-block;">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Masthead" height="400" width="100%"/>
 
   </div>
   <h3>A Passionate Fullstack Developer from Melbourne, Australia</h3>
