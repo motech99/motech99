@@ -26,7 +26,7 @@
 
 👨‍💻 All of my projects are available at [TBA](TBA)
 
-📫 How to reach me **mhani9@icloud.com**
+📫 How to reach me **mohammed@mohammedhani.com**
 
 <h3>Connect with me:</h3>
 <p>
