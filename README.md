@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: inline-block;">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Masthead" height="400" width="100%"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Masthead" />
   
 <div align="center">
   <br>
