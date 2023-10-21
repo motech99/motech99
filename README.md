@@ -24,7 +24,7 @@
   
 🌱 I’m currently learning **React**
 
-👨‍💻 All of my projects are available at [TBA](TBA)
+👨‍💻 All of my projects are available at [here](https://mohammedhani.com)
 
 📫 How to reach me **mohammed@mohammedhani.com**
 
