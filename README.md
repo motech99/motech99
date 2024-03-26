@@ -12,21 +12,16 @@
   </div>
   <h3>A Passionate Fullstack Developer from Melbourne, Australia</h3>
     
-   <p>Welcome to my corner of the digital world! I'm a dedicated fullstack developer based in the vibrant city of Melbourne, Australia. My journey in the world of programming began with a fascination for turning lines of code into functional and creative solutions.</p>
+   <p>Hey! I'm a Full-Stack developer based in Melbourne, Australia. I love coding and creating awesome web experiences. Right now, I'm really into React and exploring all it has to offer. When I'm not coding, I enjoy exploring Melbourne, working out, and brainstorming new project ideas. Let's connect and chat about tech, work on projects, or share coding jokes!</p>
     
-  <p>With a strong foundation in languages like HTML, CSS, and JavaScript, I've been crafting engaging and user-friendly web experiences. Currently, I'm immersed in the exciting realm of the React framework, exploring its endless possibilities.</p>
-    
-  <p>When I'm not coding, you'll find me strolling through the scenic landscapes of Melbourne, hitting the gym to stay active and healthy, or savoring a cup of coffee while brainstorming exciting new project concepts. I also love to connect with the dynamic and ever-evolving tech community.</p>
-    
-  <p>Feel free to connect with me, whether you want to discuss tech trends, collaborate on projects, or simply share a good coding joke. I'm always excited to connect with fellow developers!</p>
+
     
 <div align="center">
   
-🌱 I’m currently learning **React**
 
 👨‍💻 All of my projects are available at [here](https://mohammedhani.com)
 
-📫 How to reach me **mohammed@mohammedhani.com**
+📫 How to reach me **mhani9@icloud.com**
 
 <h3>Connect with me:</h3>
 <p>
