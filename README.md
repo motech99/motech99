@@ -12,7 +12,7 @@
   
   <h3>Emerging Full Stack Developer | Student at Coder Academy </h3>
     
-   <p>Hello! I'm a Full-Stack Developer student from Melbourne, Australia. I'm passionate about creating engaging web applications. Currently, I'm enhancing my skills by learning Flask for API development. Apart from coding, I enjoy exploring the sights of Melbourne, staying active, and thinking up new project ideas. Feel free to get in touch!</p>
+   <p>Hello! I'm a Full-Stack Developer student from Melbourne, Australia. I'm passionate about creating engaging web applications. Currently, I'm enhancing my skills by learning React! Apart from coding, I enjoy exploring the sights of Melbourne, staying active, and thinking up new project ideas. Feel free to get in touch!</p>
     
 
     
